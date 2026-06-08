@@ -1,0 +1,31 @@
+# required by x11-libs/gtk+-3.24.51::gentoo
+# required by gui-libs/libdecor-0.2.3::gentoo[gtk]
+# required by media-libs/libsdl2-2.32.8::gentoo[wayland]
+# required by media-video/ffmpeg-8.1.1::gentoo[sdl]
+# required by www-client/firefox-bin-151.0.2::gentoo
+# required by www-client/firefox-bin (argument)
+>=x11-libs/cairo-1.18.4-r1 X
+
+# required by media-libs/mesa-26.0.7::gentoo
+# required by gui-libs/wlroots-0.19.2::gentoo
+# required by gui-wm/sway-1.11::gentoo
+# required by gui-wm/sway (argument)
+>=media-libs/libglvnd-1.7.0 X
+# required by x11-libs/pango-1.57.0::gentoo
+# required by gui-wm/sway-1.11::gentoo
+# required by gui-wm/sway (argument)
+>=media-libs/freetype-2.14.3 harfbuzz
+
+# required by gui-apps/wf-recorder-0.6.0::gentoo
+# required by gui-apps/wf-recorder (argument)
+>=media-video/ffmpeg-8.1.1 x264
+
+# required by app-i18n/fcitx-5.1.17::gentoo
+# required by app-i18n/fcitx (argument)
+>=x11-libs/pango-1.57.0 X
+# required by app-i18n/fcitx-5.1.17::gentoo[keyboard]
+# required by app-i18n/fcitx (argument)
+>=x11-libs/libxkbcommon-1.13.1 X
+
+dev-qt/qtbase -wayland
+app-i18n/fcitx-qt -wayland

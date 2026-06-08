@@ -1,0 +1,43 @@
+# 敏感文件
+/etc/shadow
+/etc/gshadow
+/etc/ssh/ssh_host_*
+/etc/ssl/private/
+
+# 虚拟文件系统
+/proc/
+/sys/
+/dev/
+/run/
+
+# 临时文件和缓存
+/tmp/
+/var/tmp/
+/var/cache/
+/var/log/
+
+# 挂载点
+/mnt/
+/media/
+
+# 用户家目录
+/home/
+/root/
+
+# 系统目录（包管理器管理）
+/boot/
+/lib/
+/lib64/
+/bin/
+/sbin/
+/usr/*
+# 但保留 /usr/stub（UKI 存根）
+!/usr/stub/
+/opt/
+
+# Portage 数据库
+/var/db/pkg/
+
+# 编辑器临时文件
+*.swp
+*.swo

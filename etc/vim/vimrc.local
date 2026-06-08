@@ -1,0 +1,25 @@
+set norelativenumber
+set number
+
+set tabstop=2
+set shiftwidth=2
+set expandtab
+set autoindent
+
+set nowrap
+
+"set cursorline
+
+set mouse=a
+
+set splitright
+set splitbelow
+
+set ignorecase
+set smartcase
+
+"set termguicolors
+"set signcolumn=yes
+set clipboard=unnamedplus
+
+highlight LineNr ctermfg=245 ctermbg=0

@@ -1,0 +1,2 @@
+dev-lang/perl minimal
+sys-apps/systemd-utils -sysctl
