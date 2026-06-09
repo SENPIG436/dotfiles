@@ -1,0 +1,46 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.16.1
+#@/tick	47
+#@/user_id	6100ae36-9b22-448a-960f-932c2d095f07
+a 	啊	c=3 d=2.96531 t=47
+a da wa 	阿达娃	c=1 d=0.99005 t=47
+ai de 	爱的	c=1 d=0.97531 t=47
+an fu 	安抚	c=1 d=0.995012 t=47
+bu 	不	c=1 d=0.99005 t=47
+bu ru 	不如	c=12 d=11.5534 t=47
+bu ru yuan 	不入园	c=0 d=0.0995012 t=47
+bu ru yuan sen 	不入园森	c=1 d=1 t=47
+bu ru yuan shen 	不如原神	c=1 d=0.99005 t=47
+deng yu ji 	等于几	c=1 d=1 t=47
+gan jue 	感觉	c=2 d=1.9362 t=47
+ha ha 	哈哈	c=1 d=1 t=47
+ha ha ha 	哈哈哈	c=1 d=0.995012 t=47
+ha ha ha ha 	哈哈哈哈	c=1 d=0.995012 t=47
+hen ji 	痕迹	c=0 d=0.0995012 t=47
+hen ji o 	痕迹哦	c=1 d=1 t=47
+ji he 	集合	c=1 d=0.980199 t=47
+ji hua 	计划	c=2 d=1.97032 t=47
+jian kang 	健康	c=0 d=0.0995012 t=47
+jing li ku jie 	精力枯竭	c=0 d=0.0995012 t=47
+kai ji hou 	开机后	c=1 d=1 t=47
+la kai ju li 	拉开距离	c=0 d=0.0995012 t=47
+lao zai 	涝灾	c=1 d=1 t=47
+le kou le kou 	乐扣乐扣	c=0 d=0.0995012 t=47
+le kou le kou jing li ku jie la kai ju li jian kang 	乐扣乐扣精力枯竭拉开距离健康	c=1 d=1 t=47
+ma 	吗	c=1 d=0.97531 t=47
+na me 	那么	c=1 d=0.995012 t=47
+ni hao 	你好	c=2 d=1.96728 t=47
+ni hao a 	你好啊	c=1 d=0.995012 t=47
+ni hao bu ru 	你好不如	c=1 d=0.980199 t=47
+o 	哦	c=0 d=0.0995012 t=47
+pin yin 	拼音	c=1 d=0.99005 t=47
+re re re 	热热热	c=1 d=1 t=47
+sen 	森	c=0 d=0.0995012 t=47
+shen 	神	c=1 d=0.99005 t=47
+wei shen me 	为什么	c=1 d=0.980199 t=47
+yi 	一	c=1 d=0.995012 t=47
+yi jia yi 	一加一	c=1 d=0.995012 t=47
+yuan shen 	原神	c=0 d=0.0985112 t=47
+zhe ge 	这个	c=1 d=0.985112 t=47
